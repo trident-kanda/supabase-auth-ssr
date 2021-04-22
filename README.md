@@ -1,1 +1,5 @@
-# Next-Type-Tailwind-Preset
+Next-Preset
+
+- Next
+- Tailwind
+- TypeScript
