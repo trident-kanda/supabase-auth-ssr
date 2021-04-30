@@ -1,5 +1,1 @@
-Next-Preset
-
-- Next
-- Tailwind
-- TypeScript
+# Supabase-Auth-SSR
